@@ -21,3 +21,19 @@ I first learned some Python from a Python-for-kids book when I was around 10. I 
 - A self-hosted Minecraft server with systemd, backups, and networking
 - Improving my Python and C++ fundamentals
 - Learning how infrastructure and automation work
+
+## Contact
+
+Discord: @papachalo
+
+## Contact
+
+Discord: @papachalo
+
+## Contact
+
+Discord: @papachalo
+
+## Contact
+
+Discord: papachalo
